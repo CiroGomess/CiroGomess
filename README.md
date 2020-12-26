@@ -20,10 +20,15 @@ Here are some ideas to get you started:
 <h1 align="center"> Ciro Gomes </h1>
 
 <h2>Connect</h2>
-- <a href="https://www.instagram.com/ciro__gomes/" target="_blank"><img src="https://img.shields.io/badge/instagram%20@ciro__gomes-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-- <a href="https://www.facebook.com/profile.php?id=100004226591476" target="_blank"><img src="https://img.shields.io/badge/facebook%20@cirogomes-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-- <a href="https://www.gitshowcase.com/cirogomess target="_blank"><img height="30px" src="https://img.shields.io/badge/GitShowCase%20-8E2DE2?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<div aling="center">
+  - <a href="https://www.instagram.com/ciro__gomes/" target="_blank"><img src="https://img.shields.io/badge/instagram%20@ciro__gomes-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  - <a href="https://www.facebook.com/profile.php?id=100004226591476" target="_blank"><img src="https://img.shields.io/badge/facebook%20@cirogomes-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  - <a href="https://www.gitshowcase.com/cirogomess target="_blank"><img height="30px" src="https://img.shields.io/badge/GitShowCase%20-8E2DE2?style=for-the-badge&logo=github&logoColor=white"/></a>
 <br>
+</div>
+
+
 
 <h2>My Skills</h2>
 
