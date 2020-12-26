@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 <h1 align="center"> Ciro Gomes </h1>
 
-<h2>Connect</h2>
-
 
 <h2>Connect</h2>
 - <a href="https://www.instagram.com/ciro__gomes/" target="_blank"><img src="https://img.shields.io/badge/instagram%20@ciro__gomes-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
