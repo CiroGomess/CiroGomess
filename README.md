@@ -1,27 +1,26 @@
-### Hi there 👋
+### Seja bem vindo(a) 👋
 
-<!--
-**CiroGomess/CiroGomess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Trabalhando com front-end
+- 🌱 Estudando ciêcias de dados e IA
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/CiroGomess">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cirogomess&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cirogomess&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Ciro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ciro-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Ciro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Ciro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ciro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ciro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
-
-
-<h1 align="center"> Ciro Gomes da Silva Junior </h1>
-
-<div align="center">
-
-<h2 aling="center">Connect</h2>
+##
+  
+<div>
   <a href="https://www.instagram.com/ciro__gomes/" target="_blank"><img src="https://img.shields.io/badge/instagram%20@ciro__gomes-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.facebook.com/profile.php?id=100004226591476" target="_blank"><img src="https://img.shields.io/badge/facebook%20@cirogomes-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://www.gitshowcase.com/cirogomess target="_blank"><img height="30px" src="https://img.shields.io/badge/GitShowCase%20-8E2DE2?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -29,44 +28,12 @@ Here are some ideas to get you started:
 
 </div>
 
-<h2 align="center">My Skills</h2>
-
-<br>
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
-![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=8E2DE2)
-![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
-![mysql](https://img.shields.io/badge/-mysql-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=8E2DE2)
-<br>
-
-![sqlite](https://img.shields.io/badge/-sqlite-grey?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=8E2DE2)
-![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=8E2DE2)
-![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
-![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
-
-</div>
-
-<h2 align="center">My GitHub Status </h2>
- 
-<div align="center">
-
-![Status1](https://github-readme-stats.vercel.app/api?username=CiroGomess&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
-
-</div>
-
-<div align="center"> 
-
-
-![Status2](https://github-readme-stats.vercel.app/api/top-langs/?username=CiroGomess&theme=radical&title_color=8E2DE2&text_color=fff)
-
-</div>
-
-
-
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=CiroGomess" id="counter">
 </p>
+                                                                                
+                                                                              
+                                                                                
 
