@@ -2,7 +2,6 @@
 
 - 🔭 Trabalhando com front-end
 - 🌱 Estudando ciêcias de dados e IA
-- 📍  Sousa PB
 - 👨‍💻 Universitário UFPB
 
 <div>
