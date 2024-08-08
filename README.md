@@ -29,8 +29,6 @@
 
 </div>
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=CiroGomess" id="counter">
 </p>
