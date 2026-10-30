@@ -4,11 +4,8 @@
   <p>Graduando em Ciência de Dados e Inteligência Artificial na <strong>UFPB</strong></p>
   
   <p align="center">
-    <a href="https://www.linkedin.com/in/cirogomesj" target="_blank">
+    <a href="https://www.linkedin.com/in/ciro-gomes" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://instagram.com/ciro__gomes" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
   </p>
 </div>
@@ -51,14 +48,3 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cirogomess&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cirogomess&layout=compact&langs_count=8&theme=tokyonight" alt="Linguagens mais usadas" />
-</div>
-
-<p align="center">
-  <br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=CiroGomess" alt="Contador de Visitas" />
-</p>
